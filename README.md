@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis
+# Classification
 Learning to do classification
