@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Learning to do exploration of data
+Learning to do classification
